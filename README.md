@@ -5,7 +5,7 @@ This is not full-fledged HTML5 bloilerplate or CSS framework, just a quick start
 
 ##Screenshot
 
-[[https://github.com/bbog/html-boilerplate/blob/master/screenshot.png|alt=html-boilerplate screenshot]]
+![Screenshot](https://raw.githubusercontent.com/bbog/html-boilerplate/master/screenshot.png)
 
 
 ##Example page

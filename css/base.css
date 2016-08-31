@@ -12,6 +12,11 @@ html, body {
 	box-sizing: border-box;
 }
 
+.main-container {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
 button {
 	padding: 0.5em;
 	margin: 0;

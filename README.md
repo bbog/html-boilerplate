@@ -10,7 +10,7 @@ This is not full-fledged HTML5 bloilerplate or CSS framework, just a quick start
 
 ##Example page
 
-- [JSRatio](http://awesomestsite.com/awesomest-projects/js-ratio/)
+- [JSRatio](https://dev.bogdanbucur.eu/awesomest-projects/js-ratio/)
 
 ##License?
 
